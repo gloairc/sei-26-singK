@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { VIDEO_PAGE } from "../route_constant";
-import { Link, useParams } from "react-router-dom"
+import { Link } from "react-router-dom"
 import kTV from "../images/kTV.png"
 
 const IndivCardResult = (props) => {
@@ -42,7 +42,7 @@ const IndivCardResult = (props) => {
                         onClick={(e) => handleSelectVideoClick(e)}
                     >
                         SingK!
-                        <img src={kTV} id="kTV-logo" />
+                        <img src={kTV} id="kTV-logo" alt="kTV-logo" />
                     </Link>
                 </div>
             </div>

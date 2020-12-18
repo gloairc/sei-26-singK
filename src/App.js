@@ -1,5 +1,5 @@
 import './css/App.css';
-import React, { useEffect, useState } from "react";
+import React from "react";
 import HomePage from "./pages/HomePage"
 import SearchResultPage from "./pages/SearchResultPage"
 import ShowVideoPage from "./pages/showVideoPage"

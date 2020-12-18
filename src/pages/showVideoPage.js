@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { withRouter, useParams } from "react-router-dom";
 import axios from "axios"
-import ytResult from "../practiceResult/shazamlyricsresult"
+// import ytResult from "../practiceResult/shazamlyricsresult"
 import SingK from "../component/SingK"
 import mic from "../images/mic.png"
 
@@ -80,6 +80,7 @@ const ShowVideoPage = (props) => {
                 <div class="container-fluid col-8 p-0" id="video-cont">
                     <iframe width="100%"
                         height="100%"
+                        title="iframe-YT"
                         src={"https://www.youtube.com/embed/" + videoId}>
                     </iframe>
                 </div>
@@ -87,7 +88,7 @@ const ShowVideoPage = (props) => {
                 <div class="container col-4 px-0" id="lyrics-cont">
 
                     <div id="lyric-bar" class="pl-1 d-flex align-items-center">
-                        <img src={mic} id="mic-logo" />
+                        <img src={mic} id="mic-logo" alt="mic-logo" />
                         <h5 class="m-0 pl-1 py-1">Lyrics</h5>
                     </div>
 

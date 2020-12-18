@@ -1,8 +1,7 @@
-import { render } from "@testing-library/react";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { SEARCH_RESULT_PAGE } from "../route_constant";
 import searchSongBtn from "../images/searchSongBtn.png"
-import { Link, useParams } from "react-router-dom"
+import { Link } from "react-router-dom"
 
 const HomeSearchBar = (props) => {
     const [searchInputValue, setSearchInputValue] = useState(props.searchInput);//props.searchInput
@@ -38,7 +37,7 @@ const HomeSearchBar = (props) => {
                 id="HomeSearchBar-Btn"
                 onClick={(e) => handleHomeSearchSubmit(e)}
             >
-                <img src={searchSongBtn} id="searchSongBtn-image" />
+                <img src={searchSongBtn} id="searchSongBtn-image" alt="searchSongBtn" />
             </Link>
         </div>
 

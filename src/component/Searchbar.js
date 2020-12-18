@@ -1,6 +1,4 @@
-import { render } from "@testing-library/react";
-import React, { useEffect, useState } from "react";
-import axios from "axios";
+import React from "react";
 import searchSongBtn from "../images/searchSongBtn.png"
 
 const Search = (props) => {
@@ -32,7 +30,7 @@ const Search = (props) => {
 
                     <div class="input-group-append">
                         <button class="btn btn-primary" id="HomeSearchBar-Btn">
-                            <img src={searchSongBtn} id="searchSongBtn-image-SingK" />
+                            <img src={searchSongBtn} id="searchSongBtn-image-SingK" alt="searchSongBtn-logo" />
                         </button>
                     </div>
                 </div>

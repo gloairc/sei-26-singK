@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import mic from "../images/mic.png"
 
 const IndivCardLyricResult = (props) => {
@@ -35,7 +35,7 @@ const IndivCardLyricResult = (props) => {
                     id="lyricCard-lyricBtn"
                     onClick={(e) => handleSelectLyricClick(e, lKey, lTitle, lArtist)}
                 >
-                    <img src={mic} id="mic-logo" class="align-item-center" />
+                    <img src={mic} id="mic-logo" class="align-item-center" alt="mic" />
                 </button>
             </div>
 

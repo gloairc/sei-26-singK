@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import Search from "./Searchbar"
 import axios from "axios"; //use Axios, but currently replace with internal JS
-import searchHappy from "../practiceResult/ytSearchHappy"
-import getHappySongResult from "../practiceResult/shazamgetsongResult"
+// import searchHappy from "../practiceResult/ytSearchHappy"
+// import getHappySongResult from "../practiceResult/shazamgetsongResult"
 import Result from "./Result"
 
 const SingK = (props) => {

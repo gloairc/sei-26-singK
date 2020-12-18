@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import IndivCardResult from "./IndivCardResult"
 import IndivCardLyricResult from "./IndivCardLyricResult"
 import mic from "../images/mic.png"
@@ -156,7 +156,7 @@ const Result = (props) => {//send in searchYTResult and searchLyricKey
                         id="lyricCard-lyricBtn"
                         onClick={(e) => handleNoMatchLyricClick(e, noKey)}
                     >
-                        <img src={mic} id="mic-logo" class="align-item-center" />
+                        <img src={mic} id="mic-logo" class="align-item-center" alt="mic-logo" />
                     </button>
                 </div>
 

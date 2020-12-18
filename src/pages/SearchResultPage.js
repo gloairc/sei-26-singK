@@ -1,11 +1,11 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { withRouter, useParams } from "react-router-dom";
 import HomeSearchBar from "../component/HomeSearchBar";
 import Result from "../component/Result"
 
-import searchHappy from "../practiceResult/ytSearchHappy"
-import getHappySongResult from "../practiceResult/shazamgetsongResult"
+// import searchHappy from "../practiceResult/ytSearchHappy"
+// import getHappySongResult from "../practiceResult/shazamgetsongResult"
 // import sugarLyricKey from "../practiceResult/sugargetSongKey"
 
 const SearchResultPage = (props) => {
@@ -73,9 +73,6 @@ const SearchResultPage = (props) => {
     }, [searchInput]
     )
 
-    const showLyricKey = () => {
-
-    }
     return (
         <div class="container-fluid pt-1 pb-3" id="searchresultpage-sub-overall-cont">
 
