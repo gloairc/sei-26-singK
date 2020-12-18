@@ -1,0 +1,203 @@
+/* *{
+  border: 1px solid black
+} */
+
+#top-banner {
+  background-color: rgb(43, 43, 66);
+  color: white;
+  /* height: 5vh; */
+}
+
+#singK-logo{
+height: 50px;
+width: auto;
+padding: 1px 10px 2px 10px;
+/* background-color:rgb(141, 236, 141) */
+}
+
+#singK-name-div{
+  /* background-color: saddlebrown; */
+  padding: 1px 0 5px 0px;
+}
+
+#singK-name{
+  /* background-color: violet; */
+  line-height: 100%
+}
+
+#singK-pic{
+  height: auto;
+  width: 25%;
+  margin: 20px 10px 5px 10px;
+}
+
+#overall-app-cont{
+  /* background-color: lightgoldenrodyellow; */
+  height: 100vh
+}
+
+/* #homepage-overall-div{
+background-color: salmon;
+} */
+
+#HomeSearchBar{
+width: 40%;
+/* background-color: springgreen; */
+}
+
+#searchSongBtn-image{
+  height: 40px;
+  width: auto;
+  /* background-color:sienna */
+}
+
+#HomeSearchBar-Btn{
+  padding: 0 5px 0 5px;
+  margin: 0 0 0 10px
+}
+/* #HomeSearchBar{
+background-color: slateblue;
+} */
+
+/* RESULTS PAGE */
+#searchresultpage-sub-overall-cont{
+  /* background-color: tomato; */
+  height: 93%;
+}
+
+/* #resultpage-wrap-homeSeachBarComponent{
+background-color: seagreen;
+} */
+
+#resultpage-wrap-resultComponent{
+/* background-color: purple; */
+height: 93%;
+}
+
+/* RESULT COMPONENT */
+#resultComponent-overall-cont{
+/* background-color: sandybrown; */
+height: 100%;
+}
+
+#resultComponent-video-result-cont{
+  background-color: rgb(252, 191, 39);
+  width: 65%;
+  height: 100%;
+overflow-y: scroll;
+border: 2px solid black;
+border-radius: 5px;
+}
+
+#resultComponent-lyric-result-cont{
+  background-color: rgb(39, 139, 139);
+  width: 33%;
+  height: 100%;
+overflow-y: scroll;
+border: 2px solid black;
+border-radius: 5px;
+}
+
+/* #YTcard-div{
+  width: 50%
+}  */
+
+/* #indivYTCard-wrap{
+  background-color: brown;
+  width: 100%
+}
+
+#indivCard-img-div{
+  width: 100% ;
+  background-color: chocolate;
+} */
+
+#kTV-logo{
+  height: 40px;
+  padding: 0 2px 0 10px;
+  /* background-color: crimson; */
+}
+
+/* #indivLyricCard-wrap{
+  background-color: darkgoldenrod;
+} */
+
+#mic-logo{
+  height: 40px;
+  padding: 0 2px 0 10px;
+  /* background-color: crimson; */
+}
+
+/* SHOW VIDEO PAGE */
+#video-lyric-cont{
+  /* background-color: darkkhaki; */
+  height: 60vh;
+}
+
+#video-cont{
+  /* background-color: darkorange; */
+  height: 59vh;
+  /* border: 3px solid black */
+}
+
+#lyrics-cont{
+  /* background-color: aquamarine; */
+  height: 100%;
+}
+
+#lyric-bar{
+  background-color: rgb(57, 56, 63);
+  color: white;
+  border-radius: 5px 5px 0 0;
+}
+
+#lyric-wrap{
+  background-color: lightgray;
+  height:90%;
+  overflow-y: scroll;
+  border-radius: 0 0 5px 5px;
+}
+
+/* #lyric-line{
+border: 0.3px solid black
+} */
+
+#video-page-singK-cont{
+  /* background-color: darkslategray; */
+  height: 33vh;
+}
+
+/* SINGK COMPONENT IN SHOW VIDEO PAGE */
+#searchSongBtn-image-SingK{
+  height: 30px;
+  width: auto;
+  /* background-color:sienna */
+}
+
+#SingK-SearchBar{
+  width: 40%;
+  /* background-color: springgreen; */
+  }
+
+#sub-overall-cont {
+  background-color: lightgray;
+  /* color: white; */
+  height: 100%
+}
+
+/* #search-cont{
+  background-color: powderblue;
+} */
+
+#result-cont{
+  /* background-color: rgb(141, 236, 141); */
+  height:80%
+}
+
+/* #video-content-cont {
+  background-color: wheat;
+} */
+
+#updateP{
+  color: white
+}

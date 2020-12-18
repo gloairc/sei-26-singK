@@ -1,0 +1,138 @@
+{
+    2 items
+    "tracks": {
+        1 item
+    "hits": [
+            5 items
+    0: {
+                1 item
+    "track": {
+                    10 items
+    "layout": "5"
+    "type": "MUSIC"
+    "key": "53962771"
+    "title": "A Thousand Years"
+    "subtitle": "Christina Perri"
+    "share": {...
+                    }8 items
+    "images": {...
+                    }3 items
+    "hub": {...
+                    }7 items
+    "artists": [...
+                    ]1 item
+    "url": "https://www.shazam.com/track/53962771/a-thousand-years"
+                }
+            }
+    1: {
+                1 item
+    "track": {
+                    10 items
+    "layout": "5"
+    "type": "MUSIC"
+    "key": "74333079"
+    "title": "A Thousand Years (Pt. 2)"
+    "subtitle": "Christina Perri Feat. Steve Kazee"
+    "share": {...
+                    }8 items
+    "images": {...
+                    }3 items
+    "hub": {...
+                    }7 items
+    "artists": [...
+                    ]1 item
+    "url": "https://www.shazam.com/track/74333079/a-thousand-years-pt-2"
+                }
+            }
+    2: {
+                1 item
+    "track": {
+                    10 items
+    "layout": "5"
+    "type": "MUSIC"
+    "key": "66260871"
+    "title": "A Thousand Years"
+    "subtitle": "The Piano Guys"
+    "share": {...
+                    }8 items
+    "images": {...
+                    }3 items
+    "hub": {...
+                    }7 items
+    "artists": [...
+                    ]1 item
+    "url": "https://www.shazam.com/track/66260871/a-thousand-years"
+                }
+            }
+    3: {
+                1 item
+    "track": {
+                    10 items
+    "layout": "5"
+    "type": "MUSIC"
+    "key": "111356192"
+    "title": "A Thousand Years"
+    "subtitle": "Jasmine Thompson"
+    "share": {...
+                    }8 items
+    "images": {...
+                    }3 items
+    "hub": {...
+                    }7 items
+    "artists": [...
+                    ]1 item
+    "url": "https://www.shazam.com/track/111356192/a-thousand-years"
+                }
+            }
+    4: {
+                1 item
+    "track": {
+                    10 items
+    "layout": "5"
+    "type": "MUSIC"
+    "key": "86936786"
+    "title": "A Thousand Years"
+    "subtitle": "Boyce Avenue"
+    "share": {...
+                    }8 items
+    "images": {...
+                    }3 items
+    "hub": {...
+                    }7 items
+    "artists": [...
+                    ]1 item
+    "url": "https://www.shazam.com/track/86936786/a-thousand-years"
+                }
+            }
+        ]
+    }
+    "artists": {
+        1 item
+    "hits": [
+            4 items
+    0: {
+                1 item
+    "artist": {
+                    4 items
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features128/v4/74/ef/b4/74efb491-679c-6aa2-97be-fcbbd5e75062/mzl.hfrvgrda.jpg/800x800bb.jpeg"
+    "id": "40807584"
+    "name": "Christina Perri"
+    "verified": false
+                }
+            }
+    1: {
+                1 item
+    "artist": {
+                    3 items
+    "id": "41616078"
+    "name": "A Thousand Years"
+    "verified": false
+                }
+            }
+    2: {...
+            }1 item
+    3: {...
+            }1 item
+        ]
+    }
+}
